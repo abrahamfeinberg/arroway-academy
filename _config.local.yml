@@ -1,0 +1,3 @@
+# _config.local.yml
+url: ""          # don’t point to GitHub, just stay local
+baseurl: ""      # serve site at root instead of /arroway-academy
